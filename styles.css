@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    display: block;
+    position: relative;
+    top: 200px;
+    font-size: 56px;
+    color: black;
+    margin: auto;
+    text-align: center;
+}
